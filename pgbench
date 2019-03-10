@@ -360,6 +360,7 @@ BENCHMARKS = [
     'thrum-aiopg',
     'thrum-psycopg',
     'thrum-aiopg-tuples',
+    'pypy-txpostgres',
     'python-aiopg',
     'python-aiopg-tuples',
     'python-asyncpg',
