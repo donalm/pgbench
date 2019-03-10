@@ -357,6 +357,9 @@ def format_report(data, target_file):
 BENCHMARKS = [
     'golang-libpq',
     'golang-pgx',
+    'thrum-aiopg',
+    'thrum-psycopg',
+    'thrum-aiopg-tuples',
     'python-aiopg',
     'python-aiopg-tuples',
     'python-asyncpg',
